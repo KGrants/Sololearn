@@ -1,0 +1,1 @@
+select * from apartments where status like 'Not%' and price > (select avg(price) from apartments) order by price
