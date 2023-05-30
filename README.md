@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://github.com/KGrants/Sololearn/blob/main/Sololearn.png">
+</div>
+
 Finished Courses:
 
 | No. | Course Name |
