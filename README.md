@@ -1,7 +1,7 @@
 After 200 days of using Sololearn I've finished all courses that I was interested in, so the streak is over.
 <div id="header" align="center">
   <img src="https://github.com/KGrants/Sololearn/blob/main/Sololearn.png">
-</div>
+</div><br>
 
 
 Finished Courses:
